@@ -1,6 +1,6 @@
-# Ninibazar.com
-## این یک قالب تمرینی از سایت Ninibazar.com 
-## میباشد
+# Ninibazar project
+## قالب تمرینی از سایت Ninibazar.com
+
 
 
 - My live code: [Live](https://ninibazar-pure.vercel.app/)
@@ -9,7 +9,7 @@
 
 ### Screenshot
 
-![](./img/screenShot.png)
+![](./img/screenshot/screenShot.png)
 
 - I use [Swiper](https://swiperjs.com/) for the sliders but the first one is pure!
 
