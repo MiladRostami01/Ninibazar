@@ -9,7 +9,7 @@
 
 ### Screenshot
 
-![](./img/screenShot)
+![](./img/screenShot.png)
 
 - I use [Swiper](https://swiperjs.com/) for the sliders but the first one is pure!
 
