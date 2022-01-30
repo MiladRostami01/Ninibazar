@@ -1,6 +1,8 @@
 # Ninibazar project
 ## قالب تمرینی از سایت Ninibazar.com
 
+## این سایت هنوز ریسپانسیو نیست  ¯\_(ツ)_/¯
+
 
 
 - My live code: [Live](https://ninibazar-pure.vercel.app/)
